@@ -1,0 +1,2 @@
+# productPreviewCardComponent
+Challenge from FrontendMentor
